@@ -1,5 +1,5 @@
 
-MERN Developer
+MERN & Nextjs Developer
 
 
 ## 🌐 Socials:
