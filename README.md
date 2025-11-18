@@ -1,7 +1,7 @@
 <!-- README.md for GitHub profile (paste as-is, then edit links) -->
 
 <!-- ===== Header ===== -->
-<h1 align="center">AI Enthusiast | Tech</h1>
+<h1 align="center">Hello Everyone 👋! Anand </h1>
 
 <p align="center">
   <a href="https://github.com/Anand-240"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Anand-240?label=GitHub&style=for-the-badge" /></a>
