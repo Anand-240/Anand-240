@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand</h1>
-<h3 align="center">I’m a MERN and Next.js developer passionate about building scalable, high-performance applications. I love turning ideas into real projects that solve practical problems and deliver great user experiences. I’m currently learning Java, C, and Python, and I enjoy problem-solving and improving my skills by working on challenging and impactful development tasks.</h3>
+<h3 align="center">I’m a MERN and Next.js developer passionate about building scalable, high-performance applications. I love turning ideas into real projects that solve practical problems and deliver great user experiences.</h3>
 
 <p align="left"> <a href="https://twitter.com/@anandpraka13639" target="blank"><img src="https://img.shields.io/twitter/follow/@anandpraka13639?logo=twitter&style=for-the-badge" alt="@anandpraka13639" /></a> </p>
 
