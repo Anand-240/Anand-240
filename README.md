@@ -10,14 +10,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **B.Tech CSE student** at ABES Engineering College, Ghaziabad (2024–2028) with a strong foundation in full-stack web development
-- 🏆 **Smart India Hackathon 2025 National Winner** — selected among national winners by the Ministry of Education, Govt. of India
-- ⭐ **Top 20 at HCL GUVI Coding Challenge 2025** — recognized for strong problem-solving and development skills
-- 💻 **Full Stack Developer** skilled in the MERN stack, Next.js, and Golang — building production-grade, scalable web applications
-- ☁️ Experienced with **DevOps & cloud-native technologies** — Docker, Kubernetes, AWS, GitHub Actions, and CI/CD pipelines
-- ⛓️ Exploring **blockchain development** with Solidity smart contracts and decentralized storage using IPFS
-- 📚 Continuously learning **distributed systems, system design, Golang microservices, and cloud architecture**
-- ⚡ Fun fact: **I've shipped 100+ production deployments on a personal project while still being in my 2nd year of college!**
+- 🎓 B.Tech CSE student at ABES Engineering College, Ghaziabad (2024-2028)
+- 🏆 Smart India Hackathon 2025 National Winner, selected among the national winners by the Ministry of Education, Govt. of India
+- ⭐ Top 20 at HCL GUVI Coding Challenge 2025
+- 💻 Full stack developer working with MERN, Next.js and Go, mostly building things that need to actually work in production, not just look good in a demo
+- ☁️ Comfortable with Docker, Kubernetes, AWS and CI/CD pipelines, learned a lot of this by breaking my own projects and fixing them
+- ⛓️ Been experimenting with Solidity smart contracts and IPFS for decentralized storage
+- 📚 Currently going deeper into distributed systems, Go microservices and cloud architecture
+- 🔐 Also do security research and bug bounty hunting on the side (HackerOne: `anandprakash24`)
 
 ---
 
@@ -30,8 +30,8 @@
 
 </div>
 
-- 🥇 **National Winner — Smart India Hackathon 2025** | Ministry of Education, Govt. of India — competing against thousands of teams nationwide
-- 🏅 **Top 20 — HCL GUVI Coding Challenge 2025** | ABES Engineering College
+- 🥇 National Winner, Smart India Hackathon 2025 (Ministry of Education, Govt. of India), competing against thousands of teams across the country
+- 🏅 Top 20, HCL GUVI Coding Challenge 2025, ABES Engineering College
 
 ---
 
@@ -88,27 +88,27 @@
 
 ## 🚀 Featured Projects
 
-### 🏆 CampusOS — College ERP System
-> **SIH 2025 National Winner** &nbsp;|&nbsp; Node.js · Express.js · MySQL · Prisma · React · Next.js · Tailwind · Razorpay
+### 🏆 CampusOS, College ERP System
+> SIH 2025 National Winner &nbsp;|&nbsp; Node.js · Express.js · MySQL · Prisma · React · Next.js · Tailwind · Razorpay
 
-A comprehensive full-stack College ERP with **10+ modules** — admissions, attendance, timetable, exams, fee collection, hostel, library, transport & helpdesk — with role-based access control for students, faculty & admins. Integrated Razorpay for online payments and Nodemailer for institutional email automation.
+A full-stack College ERP with 10+ modules covering admissions, attendance, timetable, exams, fee collection, hostel, library, transport and helpdesk, with role-based access for students, faculty and admins. Integrated Razorpay for payments and Nodemailer for institutional email automation.
 
 ---
 
-### 🤖 StoryForge AI — AI-Powered Story Generator
-> **HCL GUVI Project · Top 20** &nbsp;|&nbsp; React · TypeScript · Node.js · Tailwind CSS · Google Gemini API
+### 🤖 StoryForge AI, AI-Powered Story Generator
+> HCL GUVI Project · Top 20 &nbsp;|&nbsp; React · TypeScript · Node.js · Tailwind CSS · Google Gemini API
 
-AI-powered storytelling platform using Google Gemini API to generate 5-scene illustrated stories from a single user prompt with real-time streaming responses.
+An AI storytelling platform that uses the Gemini API to turn a single prompt into a 5-scene illustrated story, with streaming responses so you see it generate in real time.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://story-generator-ea63.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Anand-240/story-generator)
 
 ---
 
-### 🌾 FarmTrace — Blockchain Agri-Supply Chain
-> **Personal Project · 2026** &nbsp;|&nbsp; Node.js · Solidity · IPFS · Docker · Kubernetes · GitHub Actions
+### 🌾 FarmTrace, Blockchain Agri-Supply Chain
+> Personal Project · 2026 &nbsp;|&nbsp; Node.js · Solidity · IPFS · Docker · Kubernetes · GitHub Actions
 
-Blockchain-based farm supply chain traceability platform with Solidity smart contracts for immutable on-chain produce tracking and IPFS for decentralized document storage. Deployed on Kubernetes with 100+ automated CI/CD deployments.
+A blockchain-based farm supply chain traceability platform. Solidity smart contracts handle immutable on-chain produce tracking, IPFS stores documents in a decentralized way, and the whole thing runs on Kubernetes with 100+ automated CI/CD deployments so far.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://farmtrace-bay.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Anand-240/farmtrace)
@@ -149,7 +149,5 @@ Blockchain-based farm supply chain traceability platform with Solidity smart con
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anand-240&label=Profile%20views&color=0ea5e9&style=flat)
-
-*⚡ "Code is not just syntax — it's the language of building things that matter." ⚡*
 
 </div>
